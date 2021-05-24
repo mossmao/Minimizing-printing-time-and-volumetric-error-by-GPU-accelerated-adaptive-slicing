@@ -21,3 +21,5 @@ c) copy the files to matlab folder
 ### Step 2: dynamic programming to slice the part with adaptive layer thickness
 run main_.m
 
+### Contact
+Contact me via mao145@purdue.edu
