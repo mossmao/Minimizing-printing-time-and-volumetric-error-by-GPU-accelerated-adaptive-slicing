@@ -1,6 +1,12 @@
 # Minimizing-printing-time-and-volumetric-error-by-GPU-accelerated-adaptive-slicing
 Minimizing printing time and volumetric error by GPU-accelerated adaptive slicing
 
+## Cuda / Visual Studio Setting
+
+CUDA 10.0 is used.
+
+VS 2015 is tested.
+
 ## Run the code
 ### Step 1: sample the STL into rays
 
